@@ -7,4 +7,4 @@
 - ⚙️ I'm currently working on a website and a discord bot 
 - 🌱 I’m currently learning `TypeScript`, `PHP`, `C`
 - 👯 I’m looking to collaborate on an open source project
-- 📫 How to reach me: Jason#7419
+- 📫 You can reach me at `Jason#7419` on Discord
