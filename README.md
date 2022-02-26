@@ -5,6 +5,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-yellow)
 
 - ⚙️ I'm currently working on a website and a discord bot 
-- 🌱 I’m currently learning `Next.js`, `PHP`, `C`
+- 🌱 I’m currently learning `OCaml`, `Java`
 - 👯 I’m looking to collaborate on an open source project
 - 📫 You can reach me at `Jason#7419` on Discord
